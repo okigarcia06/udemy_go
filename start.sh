@@ -1,8 +1,8 @@
 #!/bin/bash
 SERVER_ADDRESS=localhost \
-SERVER_PORT=8000 \
+SERVER_PORT=8080 \
 DB_USER=root \
-DB_PASSWD=codecamp \
+DB_PASSWD=none \
 DB_ADDR=localhost \
 DB_PORT=3306 \
 DB_NAME=banking \
